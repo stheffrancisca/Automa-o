@@ -1,5 +1,5 @@
 # Automação
 
-## Automação para o computador fazer sozinho
+## Automação com python para o computador 
 
 
